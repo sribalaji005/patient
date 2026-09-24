@@ -1,0 +1,7 @@
+{
+  "name": "Health Monitor",
+  "description": "Colorful IoT health dashboard for ESP32 wearable displaying Heart Rate, SpO2, ECG, Temperature, Fall Detection, and Sheets export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
